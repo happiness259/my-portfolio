@@ -51,7 +51,7 @@ export default function App() {
       <section id="projects" className="w-full py-20 px-6 bg-black">
         <h3 className="text-3xl font-bold mb-8 text-center text-white">Projects</h3>
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
-          <div className="bg-gray-800 rounded-xl shadow-md p-6 hover:shadow-xl transition">
+          <div className="bg-gray-700 rounded-xl shadow-md p-6 hover:shadow-xl transition">
             <h4 className="text-xl font-semibold mb-2 text-white">AgriHub</h4>
             <p className="text-gray-400 mb-4">
               An all-in-one platform for farmers in East Africa offering financial tools,
